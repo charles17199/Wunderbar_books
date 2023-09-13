@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/charles17199/wunderbar-books/issues"
   },
-  "homepage": "https://github.com/charles17199/wunderbar-books#readme"
+  "homepage": "https://github.com/charles17199/wunderbar-books#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
