@@ -1,0 +1,19 @@
+{
+  "name": "wunderbar-books",
+  "version": "1.0.0",
+  "description": "Online BookStore developed by team - 8 Bug Slayers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charles17199/wunderbar-books.git"
+  },
+  "author": "Team 8",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charles17199/wunderbar-books/issues"
+  },
+  "homepage": "https://github.com/charles17199/wunderbar-books#readme"
+}
